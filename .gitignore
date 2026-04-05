@@ -1,0 +1,8 @@
+*.mp4
+*.mp3
+*.log
+.DS_Store
+Thumbs.db
+/vendor/
+/composer.lock
+.env
