@@ -37,11 +37,11 @@
     --house-hufflepuff:  #ecb939;
     --house-hufflepuff-l:#f4d76e;
 
-    --vid-default:         ../media/img/hogwarts.mp4;
-    --vid-gryffindor:      ../media/img/gryffondor.mp4;
-    --vid-slytherin:       ../media/img/slytherin.mp4;
-    --vid-ravenclaw:       ../media/img/ravenclaw.mp4;
-    --vid-hufflepuff:      ../media/img/hufflepuff.mp4;
+    --vid-default:         assets/media/img/hogwarts.mp4;
+    --vid-gryffindor:      assets/media/img/gryffondor.mp4;
+    --vid-slytherin:       assets/media/img/slytherin.mp4;
+    --vid-ravenclaw:       assets/media/img/ravenclaw.mp4;
+    --vid-hufflepuff:      assets/media/img/hufflepuff.mp4;
 
 
     --font-display: 'Cinzel', Georgia, serif;
